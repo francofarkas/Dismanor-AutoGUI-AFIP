@@ -1,0 +1,44 @@
+alt+tab
+type 13
+enter
+wait (2s)
+tab
+type date
+enter
+wait (1s)
+type date
+enter
+wait (1s)
+enter
+down_arrow
+wait (1s)
+tab (x2)
+type comp
+enter
+wait (1s)
+tab (x6)
+type 8007
+enter
+type piv
+enter
+type monto*0.03
+enter (x2)
+type 8008
+enter
+type i21
+enter
+type monto*0.21
+enter (x2)
+type 11001
+enter
+type g21
+type monto
+enter (x2)
+tab
+enter
+wait (1s)
+left_arrow
+enter
+wait (5s)
+
+
